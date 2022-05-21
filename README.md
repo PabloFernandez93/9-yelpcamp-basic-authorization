@@ -7,3 +7,10 @@
 - Reviews permissions
 - Associating a user with their reviews
 - Reviews authorization
+
+How to run it:
+
+- install node.js
+- install mongodb and run it in the background
+- npm init -y
+- npm install (to install all the dependencies at once)
