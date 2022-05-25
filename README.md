@@ -1,5 +1,5 @@
 
-- Adding an Author to Campground
+- Adding an author to campground
 - Displaying who created each campground with the populate method 
 - Showing and hiding Edit/Delete
 - Campground permissions
